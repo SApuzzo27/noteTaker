@@ -1,6 +1,9 @@
 # noteTaker
-
 # Unit 11 Express Homework: Note Taker
+
+![](https://github.com/SApuzzo27/noteTaker/blob/main/img/deployednotes.png)
+
+![](https://github.com/SApuzzo27/noteTaker/blob/main/img/terminalpic.png)
 
 ## Description
 
