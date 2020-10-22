@@ -1,7 +1,7 @@
 {
-  "name": "note-taker",
+  "name": "notetaker",
   "version": "1.0.0",
-  "description": "# Unit 11 Express Homework: Note Taker",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,16 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^26.6.0",
     "path": "^0.12.7"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SApuzzo27/noteTaker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/SApuzzo27/noteTaker/issues"
-  },
-  "homepage": "https://github.com/SApuzzo27/noteTaker#readme"
+  }
 }
